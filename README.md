@@ -1,4 +1,4 @@
-🚀 About Me<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=CHIM%20SITHY&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Junior%20Laravel%20Developer%20%7C%20Building%20Modern%20Web%20Applications&descSize=18&descAlignY=55&textBg=false"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=CHIM%20SITHY&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Junior%20Laravel%20Developer%20%7C%20Building%20Modern%20Web%20Applications&descSize=18&descAlignY=55&textBg=false"/>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=Debugging%20my%20future%2C%20one%20project%20at%20a%20time." alt="Typing introduction" />
