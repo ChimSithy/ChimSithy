@@ -1,11 +1,23 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=CHIM%20SITHY&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Junior%20Laravel%20Developer%20%7C%20Building%20Modern%20Web%20Applications&descSize=18&descAlignY=55&textBg=false"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=CHIM%20SITHY&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Junior%20Laravel%20Developer%20&descSize=18&descAlignY=55&textBg=false"/>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=Make%20it%20work%2C%20make%20it%20right%2C%20make%20it%20fast." alt="Typing introduction" />
+</p>
 
-<img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" alt="Banner" width="100%" />
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=ChimSithy">
+    <img src="https://komarev.com/ghpvc/?username=ChimSithy&label=Profile%20views&color=00FFFF&style=flat-square" alt="ChimSithy's profile views" />
+  </a>
+</p>
+
+<img src="https://i.pinimg.com/originals/24/bf/9e/24bf9ea5632d759d4793dabbc51e89c6.gif?nii=t" alt="Banner" width="100%" />
 
 ## 📌 About Me
-
-- Hi, I'm Thy, a Junior Laravel Developer from Cambodia who is passionate about building modern web applications and continuously improving my development skills. I primarily work with Laravel, PHP, MySQL, Tailwind CSS, Bootstrap, and JavaScript to create practical and user-friendly solutions. Through personal and academic projects, I have gained experience developing management systems, tourism platforms, healthcare applications, and automation tools. I enjoy learning new technologies, solving real-world problems, and turning ideas into functional software. My goal is to grow as a professional developer while building reliable, scalable, and impactful applications.
+- I am a **Junior Laravel Developer** specializing in building clean, maintainable backend logic, secure database schemas, and dynamic full-stack web applications. Alongside my deep interest in the Laravel ecosystem, I have a strong foundation in frontend development and software engineering principles.
+- 🔭 **Current Focus:** Deepening my knowledge of Laravel architectures, API design, and performance optimization.
+- 🌱 **Learning:** Advanced design patterns, testing workflows, and deployment environments.
+- 💬 **Ask Me About:** Laravel, PHP, React, or data structures.
+- ⚡ **Fun Fact:** I love bringing complex structures to life, whether it's through code design or building programmatic simulations.
 
 
 ## 🧠 My Focus Areas
@@ -16,12 +28,25 @@
 - Real-World Business Solutions
 
 
+## 📊 GitHub Stats & Trophies
+<p align="center">
+  <a href="https://github.com/ChimSithy">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ChimSithy&cache_seconds=7200&layout=compact&theme=tokyonight&border_radius=10" alt="ChimSithy's GitHub Stats" />
+  </a>
+  <img src="https://streak-stats.demolab.com/?user=ChimSithy&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="ChimSithy's GitHub Streak" width="49%" />
+</p>
+<p align="center">
+  <img src="https://trophy.ryglcloud.net/?username=ChimSithy&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="CHIM SITHY's GitHub Trophies" />
+</p>
+
+
 ## 🛠️ Languages & Tools
 
 <h3 align="center">Programming Languages</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" />&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" />
 
 </p>
@@ -49,12 +74,6 @@
 
 </p>
 
-<h3 align="center">DevOps & Cloud</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" />
-
-</p>
-
 <h3 align="center">Tools</h3>
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />&nbsp;&nbsp;
@@ -63,8 +82,20 @@
 
 </p>
 
+<p align="center">
+  <a href="https://github.com/ChimSithy">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ChimSithy&langs_count=8&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" />
+  </a>
+</p>
+
+![Top language](https://stats.pphat.top/languages?username=ChimSithy)
+<br/>
+
 ## 🔗 Connect with Me
 <p align="center">
+  <a href="www.linkedin.com/in/chim-sithy">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
+  </a>&nbsp;&nbsp;
   <a href="mailto:thy.dev01@gmail.com">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
   </a>
@@ -75,10 +106,15 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
 </picture>
-
-<p align="center"><a href="https://link.payway.com.kh/ABAPAYzO457769B" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
+<p align="center">
+  Support my projects via ABA PayWay!
+  <br>
+  👇
+  <br>
+  <a href="https://link.payway.com.kh/ABAPAYzO457769B" target="_blank">https://link.payway.com.kh/ABAPAYzO457769B</a>
+</p>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" alt="Bottom Line" width="100%" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
 </div>
 
